@@ -7,4 +7,8 @@ for chave,valor in alfabeto.items():
     print('valor: '+str(valor))
 
 
+print('Digite aqui o que quer codificar:')
+entrada = input().lower().strip()
+print(entrada)
+
     
